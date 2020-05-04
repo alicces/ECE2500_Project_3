@@ -1,0 +1,33 @@
+read 	0x020000 06				miss
+read 	0x040000 04				miss
+write 	0x020000 07				miss yaz pis
+read 	0x060000 04				miss	gotur
+write 	0x010000 01				miss yaz pis
+read 	0x010000 02		hit
+write 	0x020000 00				miss	gotur yaz pis
+read 	0x060000 07				miss	gotur
+read 	0x050000 03				miss
+write 	0x020000 01				miss	yaz pis
+write 	0x030000 00				miss	gotur yaz pis
+write	0x040000 02				miss	gotur yaz pis
+read	0x030000 04				miss	gotur
+read 	0x010000 03				miss
+read 	0x030000 05				miss
+write 	0x040000 04				miss	yaz pis
+read 	0x040000 07		hit
+write 	0x050000 03				miss	gotur yaz pis
+read 	0x020000 00				miss	gotur
+write	0x020000 03		hit				yaz pis
+read 	0x030000 02				miss	gotur
+read 	0x007000 02				miss
+read 	0x020000 05				miss
+write 	0x010000 01				miss	yaz pis
+read 	0x010000 06		hit
+write 	0x010000 05		hit				yaz pis
+write 	0x070000 06				miss	gotur yaz pis
+write 	0x020000 03				miss	gotur yaz pis
+read 	0x030000 02				miss	gotur
+read 	0x010000 00				miss
+read 	0x030000 01				miss
+read 	0x010000 07				miss
+

@@ -1,0 +1,7 @@
+﻿  simulate.cpp
+C:\Users\alisd\source\repos\ECE2500_Project_3\ECE2500_Project_3\simulate.cpp(517,38): warning C4018:  '>=': signed/unsigned mismatch
+C:\Users\alisd\source\repos\ECE2500_Project_3\ECE2500_Project_3\simulate.cpp(591,38): warning C4018:  '>=': signed/unsigned mismatch
+C:\Users\alisd\source\repos\ECE2500_Project_3\ECE2500_Project_3\simulate.cpp(633,21): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\alisd\source\repos\ECE2500_Project_3\ECE2500_Project_3\simulate.cpp(775,24): warning C4018:  '>=': signed/unsigned mismatch
+C:\Users\alisd\source\repos\ECE2500_Project_3\ECE2500_Project_3\simulate.cpp(850,24): warning C4018:  '>=': signed/unsigned mismatch
+  ECE2500_Project_3.vcxproj -> C:\Users\alisd\source\repos\ECE2500_Project_3\Debug\ECE2500_Project_3.exe
